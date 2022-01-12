@@ -31,8 +31,8 @@ exercises  inputs  lorem  lorem-copy  modules  outputs  README.md
 3. Delete/Remove the directory `new_dir`.
 4. Copy the file `sed.txt` from the `lorem` folder and paste it to the folder `lorem-copy`.
 5. Copy the other two files from the `lorem folder` to the `lorem-copy` folder in just one line using semicolon `;`.
-6. Show the `sed.txt` file content from the `lorem` folder.
-7. Show the `at.txt` file and the `lorem.txt` file contents from the `lorem` folder.
+6. Show the content of `sed.txt` file from the `lorem` folder.
+7. Show the contents of the `at.txt` file and the `lorem.txt` file from the `lorem` folder.
 8. Print the first 3 rows in the `sed.txt` file from lorem-copy folder.
 9. Print the last 3 rows in the `sed.txt` file from lorem-copy folder.
 10. Add `Homo homini lupus.` at the end of the `sed.txt` file in the `lorem-copy` folder.
