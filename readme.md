@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab we are going to practice with [`bash`](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>), a shell and command-line language!
+In this lab, we are going to practice with [`bash`](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>), a shell and command-line language!
 
 ## Setup
 
