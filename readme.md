@@ -30,14 +30,14 @@ exercises  inputs  lorem  lorem-copy  modules  outputs  README.md
 2. Create a new directory called `new_dir`.
 3. Delete/Remove the directory `new_dir`.
 4. Copy the file `sed.txt` from the `lorem` folder and paste it to the folder `lorem-copy`.
-5. Copy the other two files from the `lorem folder` to the `lorem-copy` folder in just one line using semicolon `;`.
-6. Show the content of `sed.txt` file from the `lorem` folder.
+5. Copy the other two files from the `lorem` folder to the `lorem-copy` folder in just one line using semicolon `;`.
+6. Show the content of the `sed.txt` file from the `lorem` folder.
 7. Show the contents of the `at.txt` file and the `lorem.txt` file from the `lorem` folder.
-8. Print the first 3 rows in the `sed.txt` file from lorem-copy folder.
-9. Print the last 3 rows in the `sed.txt` file from lorem-copy folder.
+8. Print the first 3 rows in the `sed.txt` file from the `lorem-copy` folder.
+9. Print the last 3 rows in the `sed.txt` file from the `lorem-copy` folder.
 10. Add `Homo homini lupus.` at the end of the `sed.txt` file in the `lorem-copy` folder.
 11. Print the last 3 rows in `sed.txt` file from `lorem-copy` folder. You should see `Homo homini lupus.`.
-12. `sed` command is used to replace the text in a file. Use the `sed` command to replace all occurances of `et` with `ET` in the file `at.txt` file present in the folder `lorem`. You can use the following link to refer to `sed` commands [https://www.linode.com/docs/guides/manipulate-text-from-the-command-line-with-sed/]
+12. `sed` command is used to replace the text in a file. Use the `sed` command to replace all occurances of `et` with `ET`, in the file `at.txt` file present in the folder `lorem`. You can use the following link to refer to `sed` commands [https://www.linode.com/docs/guides/manipulate-text-from-the-command-line-with-sed/]
 Check the contents of the sed.txt file using the `cat` command.
 13. Find who is the system user. 
 14. Find the current path of the directory you are in.
